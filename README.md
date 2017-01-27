@@ -24,6 +24,8 @@ A curated list of awesome things and projects built by Algerian developpers.
   - [jQuery Ajax Native](https://github.com/acigna/jquery-ajax-native) - jQuery Plugin that adds XHR2 responseType support
   - [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) - use GraphQL to query your Redux store
   - [Rungen](https://github.com/youknowriad/rungen) - A generic runtime around async flow in javascript
+  - [jQuery-ShoppingCart](https://github.com/pristou/jQuery-ShoppingCart) - A smpile system shopping cart 
+
 - PHP
   - [Phyber](https://github.com/ghousseyn/phiber) - Build light-weight lightning-fast PhP applications with Phiber
 - Go
